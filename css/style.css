@@ -18,12 +18,6 @@ overflow: hidden;
  	width: 30%;
 	 float: left;
 }
-.logo a{
-
-}
-.logo img{
-
-}
 nav{
  	width: 70%;
  	float: left;
@@ -31,9 +25,6 @@ nav{
 nav ul{
 	display: flex;
 	justify-content: flex-end;
-}
-nav ul li{
-
 }
 nav ul li a{
 	text-decoration: none;
@@ -45,21 +36,12 @@ nav ul li a{
 nav ul li a:hover{
 	color: #413333;
 }
-.banner-secton{
-
-}
 .banner-section img{
 	width: 100%
-}
-.gateway-section{
-
 }
 .wrapper{
 	width: 1100px;
     margin: auto;
-}
-.gateway-content{
-
 }
 .gateway-content a{
 	text-decoration: none;
@@ -108,23 +90,14 @@ footer{
 	background-color: #F0F0F0;
 	padding: 40px;
 }
-.copywrite{
-
-}
 .copywrite ul{
 	display: flex;
-}
-.copywrite ul li{
-
 }
 .copywrite ul li a{
 	text-decoration: none;
 	padding: 0px 15px;
 	color: black;
 	padding-left: 0;
-}
-.social{
-
 }
 .social-icon a{
 	color: #666666;
@@ -133,9 +106,6 @@ footer{
 }
 .social-icon ul{
 	display: flex;
-}
-.social-icon ul li{
-
 }
 .social-icon ul li a{
 	padding: 0px 20px;
